@@ -14,6 +14,9 @@
   padding: 50px;
   height: 50vh;
   background-color: rgb(255, 238, 238);
+  box-shadow: 14px 17px 5px 0px rgba(161, 161, 161, 0.51);
+  -webkit-box-shadow: 14px 17px 5px 0px rgba(161, 161, 161, 0.51);
+  -moz-box-shadow: 14px 17px 5px 0px rgba(161, 161, 161, 0.51);
 }
 
 .input {
